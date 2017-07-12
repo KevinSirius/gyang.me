@@ -12,7 +12,7 @@ author_link: http://KevinSirius.github.io
 author_description: A human with no human interface.
 email: kevinsiriusyang@icloud.com
 description: Hello World.
-baseurl: "/" # the subpath of your site, e.g. /blog
+baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://KevinSirius.github.io" # the base hostname & protocol for your site
 
 # Picturefill
