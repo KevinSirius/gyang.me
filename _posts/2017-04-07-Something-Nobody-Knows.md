@@ -41,5 +41,7 @@ location: Chattannooga, TN
 
  <div class="post-image">
     <img src="http://KevinSirius.github.io/img/Something.png" alt="Something" />
-    <p class="post-image-caption">没人知道的大冒险</p>
+    <p class="post-image-caption">"没人知道的大冒险"
+    ::after
+    </p>
 </div>
