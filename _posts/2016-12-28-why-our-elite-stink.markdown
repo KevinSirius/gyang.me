@@ -3,7 +3,7 @@ layout: post
 title:  Why Our Elite Stink
 date:   2016-12-28 21:14:00 +0100
 categories: Repost
-location: Chattanooga, TN
+location: Repost From Huff Post
 ---
 
 Through most of the 19th and 20th centuries, the Protestant Establishment sat atop the American power structure. A relatively small network of white Protestant men dominated the universities, the world of finance, the local country clubs and even high government service.
