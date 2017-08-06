@@ -20,7 +20,9 @@ But after some time, I did not try his second game "The Beginner's Guide" or eve
 
 After William Pugh, the co-developer of The Stanley Parable, left the studio, the humor sense of the studio seemed vanished with him, leaving The Beginner's Guide fulfilled with Davey Wreden's dull, repetitive, obscure and heavy emotion.
 
--------
+
+
+
 "The Game Without Player"
 -------
 "The Beginner's Guide" does not deconstruct the playful behaviors because many kinds of "simulation games" have already done that. Instead, "The Beginner's Guide" tries to catch the existence of "Player," and anti-participation, or the bigotry ideas "Coda" expressed in the game.
