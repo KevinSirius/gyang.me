@@ -8,13 +8,13 @@ location: Pittsburgh, PA
 
 
 
-The Beginner’s Guide: Best Gift
+
 Author: Mozhe Ye 	Translate: Kevin Y
 Original Post: https://www.indienova.com/indie-game-review/the-beginners-guide-the-best-gift/
 
 From Translator: SORRY FOR MY POOR ENGLISH
 
-----------------------
+
 I really like Davey Wreden's work, and I wrote "The Stanley Parable: A Carnival of Anti-design and Fantastic Philosophy" seven months ago.
 But after some time, I did not try his second game "The Beginner's Guide" or even write a review. Because I knew it would be a game that is hard to comment.
 
@@ -24,7 +24,7 @@ After William Pugh, the co-developer of The Stanley Parable, left the studio, th
 
 
 "The Game Without Player"
--------
+
 "The Beginner's Guide" does not deconstruct the playful behaviors because many kinds of "simulation games" have already done that. Instead, "The Beginner's Guide" tries to catch the existence of "Player," and anti-participation, or the bigotry ideas "Coda" expressed in the game.
 
 So let's start with Coda's games.
