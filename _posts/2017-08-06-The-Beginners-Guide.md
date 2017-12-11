@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  The Beginner's Guide: Best Gift
+title: The Beginner's Guide 
 date:   2017-08-05 21:14:00 +0100
 categories: Article
 location: Pittsburgh, PA
