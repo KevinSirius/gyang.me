@@ -93,7 +93,7 @@ Over hundreds of years, without maintaining the plantaions, the percentage of gr
 
 Our greed has built up our future. I can see the flood sweeping out villages, the drought killing the animals and plants. I can see the people running around for help, riot rising up fighting for the precious clean water.
 
-The river is no longer our mother with our greed. But at the time we were innocent, she used to be.
+The river is no longer our mother after our greedy abuse. But she used to be.
 
 <div class="post-image">
     <img src="http://KevinSirius.github.io/img/8.jpg" alt="8" />
