@@ -36,6 +36,7 @@ This kind of soil can be seen common in the area where the Yellow River covers. 
     </p>
 </div>
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/VkD4lKWS0ro?start=41" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 -------
 So where does the soil go?
 
@@ -58,6 +59,10 @@ The problem rises when more and more people gathered closer to the edges of the 
     <p class="post-image-caption">"The side of Yellow River"
     </p>
 </div>
+
+When more and more farmers started to build branches that runs from the river to their fields, the Yellow River started to have trouble maintaining itself. The level of increasing population around the river cannot be counted as "rapidly," but "exponential."
+
+
 
 
 
