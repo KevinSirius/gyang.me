@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  The Yellow Dragon
+title:  Greed
 date:   2018-12-05 19:16:00 +0700
 categories: Presentation
 location: Brooklyn, New York
@@ -91,7 +91,9 @@ There were lots of grasslands and substantial water resource, which are all the 
 
 Over hundreds of years, without maintaining the plantaions, the percentage of green around the river area has been reduced from 38% to 4% today. The flocks of cows and sheeps are already gone, leaving the barron land mixing with the yellow water.
 
-The river is no longer our mother. But she used to be.
+Our greed has built up our future. I can see the flood sweeping out villages, the drought killing the animals and plants. I can see the people running around for help, riot rising up fighting for the precious clean water.
+
+The river is no longer our mother with our greed. But at the time we were innocent, she used to be.
 
 <div class="post-image">
     <img src="http://KevinSirius.github.io/img/8.jpg" alt="8" />
