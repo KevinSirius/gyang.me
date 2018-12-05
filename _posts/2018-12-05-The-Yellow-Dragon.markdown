@@ -36,7 +36,7 @@ This kind of soil can be seen common in the area where the Yellow River covers. 
     </p>
 </div>
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/VkD4lKWS0ro?start=41" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/VkD4lKWS0ro?start=41&end=80" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 -------
 So where does the soil go?
 
@@ -62,8 +62,25 @@ The problem rises when more and more people gathered closer to the edges of the 
 
 When more and more farmers started to build branches that runs from the river to their fields, the Yellow River started to have trouble maintaining itself. The level of increasing population around the river cannot be counted as "rapidly," but "exponential."
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/VkD4lKWS0ro?start=0&end=22" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+The increasing amount of need for water drastically reduced the ratio between water and loess, from almost nothing to 3:1, which not only slows the stream speed, but also give more time for the soil to descend, lifting the river bed. The consequence is gradual but disastrous: arid season.
 
+Yes. The Yellow River has several drought season in recent years, because of the unlimited usage of river branching. The worst situation was the total dry land on the river bed.
+
+<div class="post-image">
+    <img src="http://KevinSirius.github.io/img/6.png" alt="6" />
+    <p class="post-image-caption">"The Yellow Land"
+    </p>
+</div>
+
+During the 1970s, with the great development in economy and industry in China, the Yellow River suffered more than expected from human's greed. From 1970 to 1995, the Yellow River had 21 times of completely dry. In 1997, the arid season had been extended to 226 days, which take up 2/3 of the whole year.
+
+-------
+
+Since it is easy to fix the soil by plantation, why not use the plants that are around the river?
+Certainly, there were some prairies and bushes around the river, but it was already history.
+When 
 
 
 
