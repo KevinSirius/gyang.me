@@ -26,5 +26,21 @@ The Yellow River is a long long river - it runs 5500 kilometers to cover 753,000
 
 It has been called "The Yellow River" for a reason: although the river starts in Qinghai-Tibet Plateau, where the water is clean and clear, the main stream would turn yellow-brown in the middle or bottom of the river.
 
-The problem is the 
+The problem is the sediment. The river carries away more than 1,600 million tons of sediment every year, as the sediment is mostly composed of loess, a yellow kind of soil.
+
+This kind of soil can be seen common in the area where the Yellow River covers. The physical properties of loess determined its fate - it fails to construct a steady structure when combine with other kinds of soil; it saturates with water very easily; it turns into small grains once it dries, and will be carried away by wind easily with its light weight.
+
+<div class="post-image">
+    <img src="http://KevinSirius.github.io/img/3.png" alt="3" />
+    <p class="post-image-caption">"The sediment in water"
+    </p>
+</div>
+
+-------
+So where does the soil go? It accumulates in the end of the 
+
+But loess is not the only factor that leads to the spectacular loss of soil. How could the soil be carried away if there are plants? Unfortunate
+
+
+
 
