@@ -9,7 +9,7 @@ location: Brooklyn, New York
 The Yangtze River and the Yellow River are the root of China. The civilization has been developed around the two rivers since thousands of years ago - they breed the farms and provide drinking water, not only being mothers who raise generations after generations of Chinese, but being the God who is willing to sacrifice for their people. And we are talking about the sacrifice part of the Yellow River - people have taken all the bread from Jesus, and they are going for his flesh.
 
 <div class="post-image">
-    <img src="http://KevinSirius.github.io/img/1.png" alt="1" />
+    <img src="http://KevinSirius.github.io/img/1.jpg" alt="1" />
     <p class="post-image-caption">"The Yellow River"
     </p>
 </div>
@@ -19,7 +19,7 @@ The Yangtze River and the Yellow River are the root of China. The civilization h
 The Yellow River is a long long river - it runs 5500 kilometers to cover 753,000 square kilometers of northern China. It traverses 9 provinces out of 23 in China, combines 35 main rivers and thousands of streams, and provides life support to millions of families for generations. 
 
 <div class="post-image">
-    <img src="http://KevinSirius.github.io/img/2.png" alt="2" />
+    <img src="http://KevinSirius.github.io/img/2.jpg" alt="2" />
     <p class="post-image-caption">"The Yellow River"
     </p>
 </div>
@@ -31,7 +31,7 @@ The problem is the sediment. The river carries away more than 1,600 million tons
 This kind of soil can be seen common in the area where the Yellow River covers. The physical properties of loess determined its fate - it fails to construct a steady structure when combine with other kinds of soil; it saturates with water very easily; it turns into small grains once it dries, and will be carried away by wind easily with its light weight.
 
 <div class="post-image">
-    <img src="http://KevinSirius.github.io/img/3.png" alt="3" />
+    <img src="http://KevinSirius.github.io/img/3.jpg" alt="3" />
     <p class="post-image-caption">"The sediment in water"
     </p>
 </div>
@@ -41,7 +41,7 @@ This kind of soil can be seen common in the area where the Yellow River covers. 
 So where does the soil go?
 
 <div class="post-image">
-    <img src="http://KevinSirius.github.io/img/4.png" alt="4" />
+    <img src="http://KevinSirius.github.io/img/4.jpg" alt="4" />
     <p class="post-image-caption">"The Soil"
     </p>
 </div>
@@ -55,7 +55,7 @@ During the time our civilization was mostly built on agriculture, people started
 The problem rises when more and more people gathered closer to the edges of the river:
 
 <div class="post-image">
-    <img src="http://KevinSirius.github.io/img/5.png" alt="5" />
+    <img src="http://KevinSirius.github.io/img/5.jpg" alt="5" />
     <p class="post-image-caption">"The side of Yellow River"
     </p>
 </div>
@@ -69,7 +69,7 @@ The increasing amount of need for water drastically reduced the ratio between wa
 Yes. The Yellow River has several drought season in recent years, because of the unlimited usage of river branching. The worst situation was the total dry land on the river bed.
 
 <div class="post-image">
-    <img src="http://KevinSirius.github.io/img/6.png" alt="6" />
+    <img src="http://KevinSirius.github.io/img/6.jpg" alt="6" />
     <p class="post-image-caption">"The Yellow Land"
     </p>
 </div>
@@ -80,7 +80,21 @@ During the 1970s, with the great development in economy and industry in China, t
 
 Since it is easy to fix the soil by plantation, why not use the plants that are around the river?
 Certainly, there were some prairies and bushes around the river, but it was already history.
-When 
+When the agriculture started to grow around the river area, animal husbandry was also imported.
+There were lots of grasslands and substantial water resource, which are all the condition needed to be a heaven for sheeps and cows.
 
+<div class="post-image">
+    <img src="http://KevinSirius.github.io/img/7.jpg" alt="7" />
+    <p class="post-image-caption">"The flocks in the field near the river"
+    </p>
+</div>
 
+Over hundreds of years, without maintaining the plantaions, the percentage of green around the river area has been reduced from 38% to 4% today. The flocks of cows and sheeps are already gone, leaving the barron land mixing with the yellow water.
 
+The river is no longer our mother. But she used to be.
+
+<div class="post-image">
+    <img src="http://KevinSirius.github.io/img/8.jpg" alt="8" />
+    <p class="post-image-caption">"The Yellow River in the bottom side"
+    </p>
+</div>
