@@ -37,9 +37,27 @@ This kind of soil can be seen common in the area where the Yellow River covers. 
 </div>
 
 -------
-So where does the soil go? It accumulates in the end of the 
+So where does the soil go?
 
-But loess is not the only factor that leads to the spectacular loss of soil. How could the soil be carried away if there are plants? Unfortunate
+<div class="post-image">
+    <img src="http://KevinSirius.github.io/img/4.png" alt="4" />
+    <p class="post-image-caption">"The Soil"
+    </p>
+</div>
+
+The Yellow River creates more than 18 million square meter land per year with the soil it carries down. Most of the lands are still with unstable structure and cannot be used for farming or planting purpose. The land created is mostly at bottom of the river, jamming the stream by narrowing passageway, which ultimately led to overflow and flood.
+
+-------
+
+But the properties of loess is not the only factor that leads to the spectacular loss of soil. In fact, loess can be fixed easily with plantation since the root of trees or other plants can tighten the soil and generate a structure that cannot be destroyed by the water stream. In the record of history (in China every town will have their own history record written by a certain family, whose mission for generations is to record everything happened in the town), the Yellow River did not take land at such fast rate as today hundreds of years ago, when all the villages are not directly taking water from the Yellow River, but from the branches of it. 
+During the time our civilization was mostly built on agriculture, people started to move closer to the river in order to take advantages of its stable water supply, which is always substantial even in the droughty season.
+The problem rises when more and more people gathered closer to the edges of the river:
+
+<div class="post-image">
+    <img src="http://KevinSirius.github.io/img/5.png" alt="5" />
+    <p class="post-image-caption">"The side of Yellow River"
+    </p>
+</div>
 
 
 
