@@ -1,37 +1,70 @@
-/* Universal box-sizing as per https://css-tricks.com/box-sizing/ */
-html {
-    -webkit-box-sizing: border-box;
-    -moz-box-sizing: border-box;
-    box-sizing: border-box;
-}
+// Body resets
+//
+// Update the foundational and global aspects of the page.
 
-/* Universal box-sizing as per https://css-tricks.com/box-sizing/ */
-*, *:before, *:after {
-    -webkit-box-sizing: inherit;
-    -moz-box-sizing: inherit;
-    box-sizing: inherit;
+* {
+  box-sizing: border-box;
 }
 
 body {
-    font: $base-font-weight #{$base-font-size}/#{$base-line-height} $base-font-family;
-    color: $text-color;
-    background-color: $background-color;
-    -webkit-text-size-adjust: 100%;
-    -webkit-font-feature-settings: "kern" 1;
-    -moz-font-feature-settings: "kern" 1;
-    -o-font-feature-settings: "kern" 1;
-    font-feature-settings: "kern" 1;
-    font-kerning: normal;
-    text-rendering: optimizeLegibility; /* Beware of performance issues in mobile - see https://css-tricks.com/almanac/properties/t/text-rendering/ */
-    -webkit-font-smoothing: antialiased;
-    font-smoothing: antialiased;
-
-    &.is-offset {
-        margin-top: -195px;
-    }
+  margin: 0;
+  font-family: var(--body-font);
+  font-size: var(--body-font-size);
+  line-height: var(--body-line-height);
+  color: var(--body-color);
+  background-color: var(--body-bg);
+  -webkit-text-size-adjust: 100%;
+      -ms-text-size-adjust: 100%;
 }
 
+// No `:visited` state is required by default (browsers will use `a`)
 a {
-    text-decoration: none;
-    color: #443E40;
+  color: var(--link-color);
+
+  // `:focus` is linked to `:hover` for basic accessibility
+  &:hover,
+  &:focus {
+    color: var(--link-hover-color);
+  }
+
+  strong {
+    color: inherit;
+  }
+}
+
+img {
+  display: block;
+  max-width: 100%;
+  margin-bottom: var(--spacer);
+  border-radius: var(--border-radius);
+}
+
+table {
+  margin-bottom: 1rem;
+  width: 100%;
+  border: 0 solid var(--border-color);
+  border-collapse: collapse;
+}
+
+td,
+th {
+  padding: .25rem .5rem;
+  border-color: inherit;
+  border-style: solid;
+  border-width: 0;
+  border-bottom-width: 1px;
+}
+
+th {
+  text-align: left;
+}
+
+thead th {
+  border-bottom-color: currentColor;
+}
+
+mark {
+  padding: .15rem;
+  background-color: var(--yellow-100);
+  border-radius: .125rem;
 }
