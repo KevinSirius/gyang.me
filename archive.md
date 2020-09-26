@@ -19,9 +19,9 @@ Browse all posts by month and year.
 
 
 Browse all posts by language.
-{% assign diffLang = sites.posts | group_by_exp: "post", "post.lang"%}
+{% assign diffLang = sites.posts | where:"lang", page.lang %}
 {% if diffLang.size > 0 %}
-  {% for lang in diffLang%}
+  {% for lang in diffLang %}
     <h2>{{ lang.name }}</h2>
     <ul>
       {% or post in lang.items %}
