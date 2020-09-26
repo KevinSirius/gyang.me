@@ -1,6 +1,7 @@
 ---
 layout: post
 title: The Beginner's Guide 
+lang: English
 ---
 
  <div class="post-image">
@@ -11,7 +12,8 @@ title: The Beginner's Guide
 
 
 Author: Mozhe Ye 	Translate: Ge Y
-Original Post: https://www.indienova.com/indie-game-review/the-beginners-guide-the-best-gift/
+
+[Original](https://www.indienova.com/indie-game-review/the-beginners-guide-the-best-gift/)
 {: .message }
 
 

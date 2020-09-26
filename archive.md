@@ -16,3 +16,17 @@ Browse all posts by month and year.
     {% endfor %}
   </ul>
 {% endfor %}
+
+
+Browse all posts by language.
+{% assign diffLang = sites.posts | group_by_exp: "post", "post.lang"%}
+{% if diffLang.size > 0 %}
+  {% for lang in diffLang%}
+    <h2>{{ lang.name }}</h2>
+    <ul>
+      {% or post in lang.items %}
+        <li><a href="{{post.url}}">{{ post.title }}</a></li>
+      {% endfor %}
+    </ul>
+  {% endfor %}
+{% endif %}
