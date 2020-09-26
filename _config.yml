@@ -41,8 +41,13 @@ version: 3.0.0
 
 # Navbar page list
 nav:
-  - title: Blog
+  - title: Newest
+    url: /
+  - title: codingStuff
+    url: /codingDir
+  - title: lifeStuff
+    url: /lifeDir
+  - title: allPosts
     url: /archive
-
   - title: About
     url: /about

@@ -1,22 +1,22 @@
 ---
 layout: post
 title: The Beginner's Guide 
-lang: English
-theme: tech
+date:   2017-08-05 21:14:00 +0100
+categories: Article
+location: Pittsburgh, PA
 ---
 
  <div class="post-image">
-    <img src="/pics/Guide/v1.jpg" alt="Starting" />
+    <img src="http://KevinSirius.github.io/img/v1.jpg" alt="Something" />
     <p class="post-image-caption">"The Beginner's Guide"
     </p>
 </div>
 
 
+Author: Mozhe Ye 	Translate: Ge Y
+Original Post: https://www.indienova.com/indie-game-review/the-beginners-guide-the-best-gift/
 
-Author: Mozhe Ye 	Translate: G Y 
-{: .message }
 
-[Original Work in Chinese](https://www.indienova.com/indie-game-review/the-beginners-guide-the-best-gift/)
 
 I really like Davey Wreden's work, and I wrote "The Stanley Parable: A Carnival of Anti-design and Fantastic Philosophy" seven months ago.
 But after some time, I did not try his second game "The Beginner's Guide" or even write a review, because I knew it would be a game that is hard to comment.
@@ -49,7 +49,7 @@ Coda's work is not only "unjoyful," but "unplayable."
 Coda's work is closed. Programming has already locked in the rules. It is like a safe with designer's notes inside, and shall never be opened again. During the production, Coda put his conversation with his ego, his loneliness, his craziness and fanatics behind the door you will never trespass. These are the "invisible things in work", just like Picasso's drafts before his final painting. They are work with solid content, but meant to be replaced. Or, they are never meant to be shown. What if the game only shows the players little part of the whole? You can never ask games to show you all the content, just like you can never totally figure out Shakespeare’s literature, or the meaning of this real world.
 
  <div class="post-image">
-    <img src="/pics/Guide/v2.jpg" alt="Something" />
+    <img src="http://KevinSirius.github.io/img/v2.jpg" alt="Something" />
     <p class="post-image-caption">
     </p>
 </div>
@@ -87,7 +87,7 @@ When making games becomes a lifestyle and game texts become one's diary, players
 Just as everyone who walks is lonely, his inner tiding emotions and thoughts are not for sharing. Because if they do so, they can be as ludicrous as putting themselves into a zoo, letting others watch and comment publicly.
 
  <div class="post-image">
-    <img src="/pics/Guide/v3.jpg" alt="Something" />
+    <img src="http://KevinSirius.github.io/img/v3.jpg" alt="Something" />
     <p class="post-image-caption">
     </p>
 </div>
@@ -116,7 +116,7 @@ The sin of the narrator "Davey Wreden" is not his endeavor to interpret Coda's w
 Understanding the producer by his work is the way of interpretation "Davey Wreden" (the narrator) tries to mislead us to.  But it is also the way David Wreden tries to eliminate. That is the way which shatters the relationship between producers and their work. Interpreters look through the pinhole of games, states their definite explanation of games and the producers, and leaves no rest space but desperation to designers.
 
  <div class="post-image">
-    <img src="/pics/Guide/v4.jpg" alt="Something" />
+    <img src="http://KevinSirius.github.io/img/v4.jpg" alt="Something" />
     <p class="post-image-caption">
     </p>
 </div>

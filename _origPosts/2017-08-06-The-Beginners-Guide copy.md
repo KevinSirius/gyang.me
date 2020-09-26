@@ -1,63 +1,54 @@
 ---
 layout: post
 title: The Beginner's Guide 
-lang: English
-theme: tech
+date:   2017-08-05 21:14:00 +0100
+categories: Article
+location: Pittsburgh, PA
 ---
 
- <div class="post-image">
-    <img src="/pics/Guide/v1.jpg" alt="Starting" />
-    <p class="post-image-caption">"The Beginner's Guide"
-    </p>
-</div>
 
 
 
-Author: Mozhe Ye 	Translate: G Y 
-{: .message }
+Author: Mozhe Ye 	Translate: Kevin Y
+Original Post: https://www.indienova.com/indie-game-review/the-beginners-guide-the-best-gift/
 
-[Original Work in Chinese](https://www.indienova.com/indie-game-review/the-beginners-guide-the-best-gift/)
+From Translator: SORRY FOR MY POOR ENGLISH
+
 
 I really like Davey Wreden's work, and I wrote "The Stanley Parable: A Carnival of Anti-design and Fantastic Philosophy" seven months ago.
-But after some time, I did not try his second game "The Beginner's Guide" or even write a review, because I knew it would be a game that is hard to comment.
+But after some time, I did not try his second game "The Beginner's Guide" or even write a review. Because I knew it would be a game that is hard to comment.
 
-After William Pugh, the co-developer of The Stanley Parable, left the studio, the sense of humor in the studio seemed vanished with him, leaving The Beginner's Guide fulfilled with Davey Wreden's dull, repetitive, obscure and heavy emotion.
+After William Pugh, the co-developer of The Stanley Parable, left the studio, the humor sense of the studio seemed vanished with him, leaving The Beginner's Guide fulfilled with Davey Wreden's dull, repetitive, obscure and heavy emotion.
 
 
----------------------------
+
 
 "The Game Without Player"
 
-"The Beginner's Guide" does not deconstruct the play element in the game because many kinds of "simulation games" have already done that. Instead, "The Beginner's Guide" tries to catch the existence of "Player," and the idea of anti-participation or the bigotry "Coda" expressed in the game.
+"The Beginner's Guide" does not deconstruct the playful behaviors because many kinds of "simulation games" have already done that. Instead, "The Beginner's Guide" tries to catch the existence of "Player," and anti-participation, or the bigotry ideas "Coda" expressed in the game.
 
 So let's start with Coda's games.
 
-Please think about a question first: Could games ever be "unplayful"? And can games have no players?
+Please think about a question first: Could games ever be "unplayful"? And could games have no players?
 
-In every game design book, all seasoned designers are trying to tell you - "You should let "players" playtest your games, and improve the game with feedbacks continuously," or "make games players love," or "we should follow "Player-Centric Design" and making players interested in our games is our priority," etc. This is also an inner paradox for media expressing themselves when thinking about "games as art" as a game designer.
-Although Rembrandt's "De Nachtwacht" is a product of a commercial order, thinking with the logic of modern art: "art is an expression and exaggeration of ego, so why should I care about players during the design process?"
+In every game design book, all seasoned designers are trying to tell you - "You should let players playtest your games, and improve the game with feedbacks continuously," or "make games players love," or "we should follow "Player-Centric Design" and making players interested in our games is our priority," etc. This is also an inner paradox for medias expressing themselves when thinking about "games as art" as a game designer.
+Although Rembrandt's "De Nachtwacht" is a product out of commercial order, thinking in the logic of modern art will bring up this question: "art is an expression and exaggeration of ego, so why should I care about players during the design process?"
 
 "No art is meant to entertain others."
 Why should games have to be "playful"?
 
-When games are transforming from an entertaining object into a way to build experience with the multimedia technology, they closely connect with modern art. And Coda's game follows the logic of modern art, when his experience constructed may be more impressive and private than the installation art in modern art museums, because it should not be "view-only," but with participation (there have been many attempts such as "The Static Speaks My Name," "Gone in November," and "Tale of Tales")
+When games are transforming from an entertaining object into a way to build experience with the multimedia technology, they closely connect with modern art. And Coda's game follows the logic of modern art, when his experience construction may be more impressive and private than the equipment art in modern art museums, because it should not be "view-only," but with participation and practice (there have been many try such as "The Static Speaks My Name," "Gone in November," and "Tale of Tales")
 
-"Playful" and "entertaining," are like the perspective rule which has been limiting modern drawing for hundreds of years or the traditional Christian aesthetic standard, "is not or no longer the things that are inseparable in us."
+"Playful" and "entertaining," are like the perspective rule which has been restraining modern drawing for hundreds of years or the traditional Christian aesthetic standard, "is no longer the things that are inseparable."
 
 Coda's work is not only "unjoyful," but "unplayable."
 
-Coda's work is closed. Programming has already locked in the rules. It is like a safe with designer's notes inside, and shall never be opened again. During the production, Coda put his conversation with his ego, his loneliness, his craziness and fanatics behind the door you will never trespass. These are the "invisible things in work", just like Picasso's drafts before his final painting. They are work with solid content, but meant to be replaced. Or, they are never meant to be shown. What if the game only shows the players little part of the whole? You can never ask games to show you all the content, just like you can never totally figure out Shakespeare’s literature, or the meaning of this real world.
-
- <div class="post-image">
-    <img src="/pics/Guide/v2.jpg" alt="Something" />
-    <p class="post-image-caption">
-    </p>
-</div>
+Coda's work is closed. Programming has already locked in the rules. It is like a coffer with designer's dairy inside, which will never be opened again. During the design, Coda put his conversation with his ego, his loneliness, his craziness and fanatics behind the door you will never trespass. These are the invisible things in work, just like Picasso's "work-in-progress." They are work with solid content, but they are meant to be vestured. Or, they are never meant to be shown. What if the game only shows the player a little part of the whole? You can never ask games to show you all the content, just like you can never totally figure out Shakespeare’s literature, or the meaning of this real world.
 
 Robert McKee mentioned writers in the twentieth centuries, such as Virginia Woolf, James Joyce, and Samuel Beckett, who all emphasize the importance of "cutting the connections between artists and the outside reality, to further cut down the connection between artists and the majority of audiences."
-He reasoned Dadaism, Stream of Consciousness, Theatre of the Absurd and more as "a conceal of the artists' private world; and the entrance of this world is controlled by the artists."
+He reasoned Dadaism, Stream of Consciousness, Theatre of the Absurd and more as "a conceal of the private world of artists, and the entrance of this world is controlled by the artists."
 
-Coda stands on the top of his work, watches the players indifferently like a cold sculpture. Players are not guests who need to be entertained and ingratiated, but passengers outside the show windows who would pass quickly and can only take a glance inside then leave. He inverts the relationship between players and designers in modern game design methodology.
+Coda stands on the top of his work, watches the players indifferently like a sculpture. Players are not guests who need to be entertained and ingratiated, but passengers outside the show windows who pass quickly and can only take a glance inside and leave. He inverts the relationship between players and designers in modern game design methodology.
 He is like Nietzsche who reevaluate everything.
 Coda is not a designer. Coda is God.
 
@@ -71,63 +62,47 @@ He makes games for himself.
 When one moves his motivation of making games from pleasing players to pleasing himself, his games are no longer games, but a diary he writes to himself just for locking down his memory. When he leaves his thoughts behind the door that will never open, he burns his memory to leave them in the past forever and hopes will never remember.
 
 Coda's presentation on his work is not only his portfolio but his growing memory, his notebook. The door puzzle which shows up many times, forms an organized factor in his games, just as himself saying goodbye to the past over and over again.
-Only forgetting the past during the struggling present, can make him to the future.
+Only packing the past during the struggling present, can make him to the future.
 已往之不谏，来者之可追(A Chinese poetic way to express the meaning of last sentence).
 
 That reminds me of a theory of Micro Game shared by someone in AMAZE Indie Game Festival:
 
   "Game production can be a way to try out and practice your design theory, or a way to your self-catharsis, or self-care, or your therapy, or your life snapshot, or even a way to communicate."
 
-"When Games become the real 'art,' its purpose directs to the producer himself."
+  "When Games become the real 'art,' its purpose directs to the producer himself."
 
-Charles Baudelaire thinks modern people can only use ascetic practices to make their own body, behaviors, feelings, emotions, even his existence, to be art. In his opinion, people as modern citizens should not explore themselves, looking for their mysteries or hidden truth, but "creating themselves."
-The modernization of art does not make people free themselves in their existences but force them to face the task, which is, to build themselves.
+  Charles Baudelaire thinks modern people can only use ascetic practices to make their own body, behaviors, feelings, emotions, even his existence, to be artwork. In his opinion, people as modern citizens should not explore themselves, looking for their mysteries or hidden truth, but "creating themselves."
+  The modernization of art does not make people free themselves in their existences but force them to face the task, which is, to build themselves.
 
-When making games becomes a lifestyle and game texts become one's diary, players then can only be the friends who would never understand each other. The rules set the comfort zone of the producers, limiting those emotions that they don't want, and are not willing to share. 
-Just as everyone who walks is lonely, his inner tiding emotions and thoughts are not for sharing. Because if they do so, they can be as ludicrous as putting themselves into a zoo, letting others watch and comment publicly.
+  When making games becomes a lifestyle and game texts become one's diary, players then can only be the friends who will never understand each other. The rules set the comfort zone of the producers, limiting those emotions that they don't want, and are not willing to share. Just as everyone who walks on the earth is lonely, his inner emotions and thoughts are not for sharing. Because if they do so, they can be as ludicrous as putting themselves into a zoo, letting others watch and comment publicly.
 
- <div class="post-image">
-    <img src="/pics/Guide/v3.jpg" alt="Something" />
-    <p class="post-image-caption">
-    </p>
-</div>
 
 -------
-"The Arrogator"
+  "The Arrogator"
 -------
-So the narrator in the game "Davey Wreden" is not only a peeper, but an arrogator.
 
-In the process of presentation, to facilitate players's move, the protagonist "Davey Wreden" helps us a lot in exploring it. He helps us to modify Coda's games, to make them "playable." He makes the walls transparent to show us the hidden items, enter some rooms that are meant to be locked or open the jail that is supposed to be opened in one hour, and solves the puzzle which should take you one hour to think about - you can know the result instantly, instead of suffering from those tedious process.
-
-At the end of the game, we even know he has modified the content, for example, adding light towers to emphasize the game's meanings, organizing the work into chapters to show closer bonds between each of Coda’s work, improving the credibility of his words commenting on Coda's work. If the producer Devid Wreden (himself, not the narrator) has made a game using only single piece of Coda's work, it would be a very impressive User-Experience project, such as "stay in jail for one hour," or "flying thoughts behind the door you can never open."
-
+  In the process of presentation, to facilitate players, the protagonist "Davey Wreden" helps us a lot for our prudence. He helps us to modify Coda's games, to make them "playable." He makes the walls transparent to show us the hidden items, enters some rooms that are meant to be locked or opens jail that is supposed to be opened in one hour, and solves the puzzle which should take you one hour to think about - you can know the result instantly, instead of suffering from those tedious process.
+At the end of the game, we even know he has modified the content, for example, adding light towers to emphasize the game meanings, organizing the work into chapters to show more close bonds between each of Coda’s work, and improving the credibility of his words commenting on Coda's work. If the producer Devid Wreden (himself, not the narrator) made a game using separate Coda's work, it would be a very impressive User-Experience project, such as "stay in jail for one hour," or "flying thoughts behind the door you can never open."
 But the most impressive resolution is:
+Davey Wreden did not show his work using the logic of artwork. He connects these work by creating a narrator "Davey Wreden" who tries to interpret Coda's work. The interpretation not only shows his thoughts and creativity in a low tier but also shows prudence in a high tier by using interactions between the narrator, the arrogator and the game itself. And the thing makes the whole mechanics perfect is: he is the arrogator.
 
-Davey Wreden did not show his work using the logic of artwork. He connects these work by creating a narrator "Davey Wreden" who tries to interpret Coda's work. The interpretation not only shows his thoughts and creativity in a low tier but also shows high-tier prudence by using interactions between the narrator, the arrogator and the game itself. And the thing makes the whole mechanics perfect is: the arrogator he creates, is "David Wreden", himself.
+He even gives a real available email address in the game.
 
-He even gives a real email address in the game.
+As a game which shows its "meta" element since the first line, it easily confused the players using complex multilayer structure in meta-texts (the narrator's lines), and implants the question of "Is the narrator misinterpreting these games?" into players' mind. That is important.
 
-As a game which shows its "meta" element since the first voiceline, it easily confused the players using complex multilayer structure in meta-texts (the narrator's lines), and implants the question of "Is the narrator misinterpreting these games?" into players' mind after "tricking" players about commenting on the work. That is important.
-
-Just like you who sit in front of the screen and read this article, you may say "oh so that's what it is" after reading and close this web tab with satisfaction. But the way how texts can be understood is open. Neither you nor I, nor the writer has the absolute right to explain the work. We can only explain those "maybe" but not "it has to be."
+Just like you who sit in front of the screen and read this article, you may say "oh so that's what it is" after reading and close this web tab with satisfaction. But the way how texts can be understood is open. Neither you nor I, nor the writer has the absolute right to explain the context. We can only explain those "maybe" but not "it has to be."
 
 The sin of the narrator "Davey Wreden" is not his endeavor to interpret Coda's work, but trying to replace every possibility with his absolute explanation. When he tries to characterize Coda to be "a Coda who is desirous of others' understanding" even by modifying the game code to form a harmony between his interpretation and the work, he arrogates.
 
-Understanding the producer by his work is the way of interpretation "Davey Wreden" (the narrator) tries to mislead us to.  But it is also the way David Wreden tries to eliminate. That is the way which shatters the relationship between producers and their work. Interpreters look through the pinhole of games, states their definite explanation of games and the producers, and leaves no rest space but desperation to designers.
-
- <div class="post-image">
-    <img src="/pics/Guide/v4.jpg" alt="Something" />
-    <p class="post-image-caption">
-    </p>
-</div>
+Knowing the producer from his work is the way of interpretation "Davey Wreden" (the narrator) tries to mislead us to.  But it is also the way David Wreden tries to eliminate. That is the way which shatters the relationship between producers and their work. Interpreters look through the pinhole of games, states their definite explanation of games and the producers, and leaves no rest space but desperation to designers.
 
 The end of interpretation should be the work. Not the producer.
 
-Is Coda, the creator of all those games, even similar to the words "Davey Wreden" said? Does he really need others' understanding, comments, or compliments? The compliments towards Davey Wreden's interpretation makes Davey feels good, but what do those compliments and "understanding" mean to Coda?
+Is Coda, the creator of all, even similar to the words "Davey Wreden" said? Does he really need others' understanding, comments, or compliments? The compliments towards Davey Wreden's interpretation makes Davey feels good, but what do those compliments and "understanding" mean to Coda?
 
 The man who stands behind The Beginner's Guide is the real David Wreden, the narrator "Davey Wreden," and also the producer Coda. He is the narrator who creates The Stanley Parable. He smiles with his faint heart and his pain. His emotions and values are built based on others' compliments.
 
-He may want to cut the unbilical cord connecting him with his past, just like the door you must close before moving on; He may want to put down his burden, his fragile proud based on others' comments. Those things may be the load which drags him from the future, or from himself. It cuts his putrid body like a scalpel, force him saying goodbye to his past.
+He may want to cut the rope connecting him with his past, just like the door you must close to move on; He may want to put down his burden, his fragile proud based on others' comments. Those things may be the load which drags him from the future, or from himself. It cuts his putrid body like a scalpel, force him saying goodbye to his past.
 
 He may want to be Coda, the man who has his admiration, the man who lives in his past and future.
 

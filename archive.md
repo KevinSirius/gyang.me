@@ -5,7 +5,8 @@ title: Archive
 
 # Archive
 
-Browse all posts by month and year.
+<br />
+## Browse all posts by month and year.
 
 {% assign postsByYearMonth = site.posts | group_by_exp: "post", "post.date | date: '%B %Y'" %}
 {% for yearMonth in postsByYearMonth %}
@@ -17,16 +18,17 @@ Browse all posts by month and year.
   </ul>
 {% endfor %}
 
+<br />
 
-Browse all posts by language.
-{% assign diffLang = sites.posts | where:"lang", page.lang %}
-{% if diffLang.size > 0 %}
-  {% for lang in diffLang %}
-    <h2>{{ lang.name }}</h2>
-    <ul>
-      {% or post in lang.items %}
-        <li><a href="{{post.url}}">{{ post.title }}</a></li>
-      {% endfor %}
-    </ul>
-  {% endfor %}
-{% endif %}
+## Browse all posts by language.
+
+{% assign postsByLanguage = site.posts | group_by_exp: "post", "post.lang"%}
+{% for language in postsByLanguage %}
+  <h2> {{ language.name }}</h2>
+  <ul>
+    {% for post in language.items %}
+      <li><a href="{{ post.url}}">{{ post.title }}</a></li>
+    {% endfor %}
+  </ul>
+{% endfor %}
+
