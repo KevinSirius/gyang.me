@@ -1,7 +1,7 @@
 
 Hi/
 
-This personal website modified from Dark Poole by Mark Otto. Huge Thanks!
+This personal website is modified from Dark Poole by Mark Otto. Huge Thanks!
 
 I added support for different languages just to make my life easier ;)
 # Dark Poole
