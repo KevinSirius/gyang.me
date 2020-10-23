@@ -12,7 +12,7 @@ title: About
 Hi! My name is Ge Yang and I am a student and programmer.
 
 
-I am currently a student researcher for [Cachecash](https://github.com/KevinSirius/go-cachecash){:target="_blank"}, Teaching Assistant for [CS4613](http://archive.engineering.nyu.edu/files/CS-UY-4613.pdf){:target="_blank"} in NYU Tandon, and SWE intern at [Blockdeliver](https://www.blockdeliver.in/){:target="_blank"}.
+I am currently a student researcher for [Cachecash](https://github.com/KevinSirius/go-cachecash){:target="_blank"}, Teaching Assistant for [CS4613](https://engineering.nyu.edu/sites/default/files/2018-10/CS-UY%204613%20Artificial%20Intelligence.pdf){:target="_blank"} in NYU Tandon, and SWE intern at [Blockdeliver](https://www.blockdeliver.in/){:target="_blank"}.
 
 I like to write stuff.
 
