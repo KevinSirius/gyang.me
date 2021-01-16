@@ -23,12 +23,14 @@ I like to write stuff.
 Some fun facts about me include:
 
 - Speak Mandarin and English
-- Gamer
-- Watched Silicon Valley and HIMYM for more than twice
+- Mechanical Keyboard Builder
+- Play LoL religiously
+- Used to fence for NYU Varsity [Fencing](https://gonyuathletics.com/sports/mens-fencing/roster/kevin-yang/11525)
 - I make music when my schedule is not tight: 
 - - (Netease Music) [meTA](https://music.163.com/#/artist?id=13018040){:target="_blank"}
 - - (Spotify) [meTA](https://open.spotify.com/artist/0wzJjzNA5CuQkQKiF7HaCx?si=GTIRnfJtQKSTBbA_Aff-dg){:target="_blank"} 
-- Used to fence for NYU Varsity [Fencing](https://gonyuathletics.com/sports/mens-fencing/roster/kevin-yang/11525){:target="_blank"}.
+{:target="_blank"}.
+- Hope to be a standup comedian when I become 50
 
 <br />
 
