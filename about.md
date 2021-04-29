@@ -12,7 +12,7 @@ title: About
 Hi! My name is Ge Yang and I am a student and programmer.
 
 
-I am currently a student researcher for [Cachecash](https://github.com/KevinSirius/go-cachecash){:target="_blank"}, Teaching Assistant for [CS4613](https://engineering.nyu.edu/sites/default/files/2018-10/CS-UY%204613%20Artificial%20Intelligence.pdf){:target="_blank"} in NYU Tandon, and SWE intern at [Blockdeliver](https://www.blockdeliver.in/){:target="_blank"}.
+I am currently a student researcher for [Cachecash](https://github.com/KevinSirius/go-cachecash){:target="_blank"}, Teaching Assistant for [CS4613](https://engineering.nyu.edu/sites/default/files/2018-10/CS-UY%204613%20Artificial%20Intelligence.pdf){:target="_blank"} in NYU Tandon, and SWE intern at [MarketAxess](https://www.marketaxess.com/){:target="_blank"}.
 
 I like to write stuff.
 
@@ -23,13 +23,13 @@ I like to write stuff.
 Some fun facts about me include:
 
 - Speak Mandarin and English
-- Mechanical Keyboard Builder
+- Luxury Mechanical Keyboard Builder and Collector
 - Play LoL religiously
 - Used to fence for NYU Varsity [Fencing](https://gonyuathletics.com/sports/mens-fencing/roster/kevin-yang/11525)
 - I make music when my schedule is not tight: 
 - - (Netease Music) [meTA](https://music.163.com/#/artist?id=13018040){:target="_blank"}
 - - (Spotify) [meTA](https://open.spotify.com/artist/0wzJjzNA5CuQkQKiF7HaCx?si=GTIRnfJtQKSTBbA_Aff-dg){:target="_blank"} 
-- Hope to be a standup comedian when I become 50
+- Hope to be a standup comedian when I turn 50
 
 <br />
 
