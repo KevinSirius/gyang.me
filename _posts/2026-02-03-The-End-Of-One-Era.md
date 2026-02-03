@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  Hey
+title:  The End of One Era
 date:   2026-02-03 02:19:00 -0500
-theme: The End of One Era
+theme: tech
 lang: English
 ---
 
