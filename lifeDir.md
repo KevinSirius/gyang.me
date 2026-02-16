@@ -11,7 +11,7 @@ title: Life Stuff
   {% if theme.name == "life" %}
   <ul>
       {% for post in theme.items %}
-        <li><a href="{{ post.url }}">{{ post.title }} - {{ post.date | date: '%B %Y'}}</a></li>
+        <li data-lang="{{ post.lang }}"><a href="{{ post.url }}">{{ post.title }} - {{ post.date | date: '%B %Y'}}</a></li>
       {% endfor %}
   </ul>
   {% endif %}

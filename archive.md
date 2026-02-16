@@ -13,7 +13,7 @@ title: Archive
   <h2>{{ yearMonth.name }}</h2>
   <ul>
     {% for post in yearMonth.items %}
-      <li><a href="{{ post.url }}">{{ post.title }}</a></li>
+      <li data-lang="{{ post.lang }}"><a href="{{ post.url }}">{{ post.title }}</a></li>
     {% endfor %}
   </ul>
 {% endfor %}
@@ -24,11 +24,13 @@ title: Archive
 
 {% assign postsByLanguage = site.posts | group_by_exp: "post", "post.lang"%}
 {% for language in postsByLanguage %}
+  <div data-lang="{{ language.name }}">
   <h2> {{ language.name }}</h2>
   <ul>
     {% for post in language.items %}
       <li><a href="{{ post.url}}">{{ post.title }}</a></li>
     {% endfor %}
   </ul>
+  </div>
 {% endfor %}
 

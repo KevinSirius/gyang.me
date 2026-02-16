@@ -28,3 +28,14 @@
   line-height: 1.25rem;
   word-spacing: 1rem;
 }
+
+.lang-switch {
+  .lang-sep {
+    margin: 0 0.35rem;
+    opacity: 0.5;
+  }
+  a.lang-active {
+    font-weight: 600;
+    opacity: 1;
+  }
+}
