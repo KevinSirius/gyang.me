@@ -12,7 +12,9 @@ title: About
 Hi! My name is Ge Yang and I am a programmer and will always stay student.
 
 
-I am currently a Software Development Engineer at Amazon.
+I am AI Engineer at Future Secure AI. I build LLM-based platform for enterprises.
+Ex-Amazon.
+
 Talk to me.
 I like to write stuff.
 
@@ -25,7 +27,7 @@ Some fun facts about me include:
 - Speak Mandarin and English
 - Luxury Mechanical Keyboard Builder and Collector
 - Play LoL religiously
-- Used to fence for NYU Varsity [Fencing](https://gonyuathletics.com/sports/mens-fencing/roster/kevin-yang/11525)
+- Used to fence for NYU Varsity [Fencing](https://gonyuathletics.com/sports/mens-fencing/roster/kevin-yang/11525); Still fencing at Fencers Club, NYC.
 - I make music when my schedule is not tight: 
 - - (Netease Music) [meTA](https://music.163.com/#/artist?id=13018040){:target="_blank"}
 - - (Spotify) [meTA](https://open.spotify.com/artist/0wzJjzNA5CuQkQKiF7HaCx?si=GTIRnfJtQKSTBbA_Aff-dg){:target="_blank"} 
