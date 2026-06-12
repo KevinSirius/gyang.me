@@ -9,10 +9,10 @@ title: About
 -->
 
 
-Hi! My name is Ge Yang and I am a programmer and will always stay student.
+Hi! My name is Ge Yang. I am a computer enthusiast and always a student.
 
 
-I am working as Senior AI Engineer at Future Secure AI. I build LLM-based platform for enterprises.
+I am working as Senior AI Engineer at Future Secure AI. I build LLM AI-Employee platform for enterprises.
 Ex-Amazonian.
 
 Talk to me.
