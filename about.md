@@ -12,8 +12,8 @@ title: About
 Hi! My name is Ge Yang and I am a programmer and will always stay student.
 
 
-I am AI Engineer at Future Secure AI. I build LLM-based platform for enterprises.
-Ex-Amazon.
+I am working as Senior AI Engineer at Future Secure AI. I build LLM-based platform for enterprises.
+Ex-Amazonian.
 
 Talk to me.
 I like to write stuff.
